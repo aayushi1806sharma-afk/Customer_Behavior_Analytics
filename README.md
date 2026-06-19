@@ -75,12 +75,8 @@ Customer-Behavior-Analytics/
 ├── powerbi/
 │   └── Customer_Behavior_Dashboard.pbix
 │
-├── screenshots/
-│   ├── dashboard_overview.png
-│   ├── customer_analysis.png
-│   └── revenue_trends.png
-│
-├── requirements.txt
+├── dashboard_overview.png
+│   
 │
 └── README.md
 ```
@@ -146,7 +142,7 @@ sql/business_queries.sql
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/Customer-Behavior-Analytics.git
+git clone https://github.com/aayushi1806sharma-afk/Customer-Behavior-Analytics.git
 ```
 
 ### Navigate to Project

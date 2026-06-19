@@ -117,16 +117,7 @@ The analysis provides insights into:
 ## Dashboard Preview
 
 ### Main Dashboard
-
-![Dashboard Overview](screenshots/dashboard_overview.png)
-
-### Customer Analysis
-
-![Customer Analysis](screenshots/customer_analysis.png)
-
-### Revenue Trends
-
-![Revenue Trends](screenshots/revenue_trends.png)
+<img width="879" height="477" alt="image" src="https://github.com/user-attachments/assets/5a9f9960-8f4e-40f2-a3ee-00679204b7ce" />
 
 ---
 
